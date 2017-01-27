@@ -1,0 +1,2 @@
+D:\git\xamarin\MVApp\MVApp\MVApp.WinPhone\MVApp.WinPhone.csproj;neutral
+D:\git\xamarin\MVApp\MVApp\MVApp\MVApp.csproj;neutral
